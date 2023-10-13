@@ -45,6 +45,21 @@ With this notebook you can run the official implementation of LSTF-Linear
 
 Use this notebook to run the official implementation of CoST
 
+## Reproducibility
+
+In order to test yourslef the models provided, you need to complete the section marked in the follwoing way:
+
+```
+### TODO ###
+.
+
+.
+.
+.
+############
+
+```
+
 ## Citation
 
 Please consider citing this work if you find it useful for your research.
