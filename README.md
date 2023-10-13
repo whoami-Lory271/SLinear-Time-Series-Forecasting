@@ -60,7 +60,11 @@ In order to test yourslef the models provided, you need to complete the section 
 ############
 
 ```
-The other hyperparameters can be modify at will
+The other hyperparameters can be modify at will.
+
+## Useful Link
+[Datasets](https://drive.google.com/drive/folders/1TEf4A4uA_YzQ1G3S3M34sfeixKQN2Jm2?usp=sharing)
+[Thesis]()
 
 ## Citation
 
@@ -68,9 +72,9 @@ Please consider citing this work if you find it useful for your research.
 
 ```
 @masterthesis{slinear,
-    title        = {SLinear: Taming the Non-Stationarity in Long Se-quence Time Series Forecasting},
+    title        = {SLinear: Taming the Non-Stationarity in Long Sequence Time Series Forecasting},
     author       = {Lorenzo De Santis},
-    year         = 2022,
+    year         = 2023,
     school       = {Sapienza, University of Rome},
     type         = {Master's thesis}
 }
