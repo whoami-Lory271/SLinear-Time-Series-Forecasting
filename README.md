@@ -47,6 +47,7 @@ Use this notebook to run the official implementation of CoST
 
 ## Reproducibility
 
+As it is, the notebook does **not** work.
 In order to test yourslef the models provided, you need to complete the section marked in the follwoing way:
 
 ```
@@ -59,6 +60,7 @@ In order to test yourslef the models provided, you need to complete the section 
 ############
 
 ```
+The other hyperparameters can be modify at will
 
 ## Citation
 
