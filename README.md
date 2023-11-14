@@ -64,7 +64,7 @@ The other hyperparameters can be modify at will.
 
 ## Useful Link
 [Datasets](https://drive.google.com/drive/folders/1TEf4A4uA_YzQ1G3S3M34sfeixKQN2Jm2?usp=sharing)  
-[Thesis]()
+[Thesis](MS_THESIS_LORENZO_DE_SANTIS_1849114.pdf)
 
 ## Citation
 
